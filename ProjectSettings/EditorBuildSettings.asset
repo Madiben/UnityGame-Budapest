@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainMap.unity
+    guid: 54d1b7ee40bee49559dd74210c7d5a57
+  - enabled: 1
+    path: Assets/Scenes/ParlimentA.unity
+    guid: b29fab293c136274fb49ca436b3987ed
+  - enabled: 1
+    path: Assets/Scenes/ChainBridgeC.unity
+    guid: e3c78bb0b4694aa4d9b3d0cbc66edccd
+  - enabled: 1
+    path: Assets/Scenes/BudaCastleD.unity
+    guid: 2501ad49c147beb4680d6952aade531c
+  - enabled: 1
+    path: Assets/Scenes/FishermanB.unity
+    guid: 8f6e4b450484d3c4a87f47134aab15e1
+  - enabled: 1
+    path: Assets/Scenes/Tour.unity
+    guid: 9d4e3c8f5f329b643b35c94c8ac567c0
+  m_configObjects: {}
